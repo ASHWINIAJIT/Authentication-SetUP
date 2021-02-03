@@ -1,0 +1,33 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.row{
+  margin-top: 20px;
+  margin-bottom: 60px;
+}
+
+.warning{
+  color:#595b83;
+}
+
+.errorField{
+  border: 2px solid red;
+}
+
+.errorText{
+  color: red;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
